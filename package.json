@@ -1,6 +1,6 @@
 {
   "name": "vue-svg-like",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "author": "snrk",
   "description": "",
@@ -13,7 +13,12 @@
     "dist/*",
     "src/**/*.vue"
   ],
-  "keywords": ["Vue", "Vue.js", "SVG", "Animation"],
+  "keywords": [
+    "Vue",
+    "Vue.js",
+    "SVG",
+    "Animation"
+  ],
   "sideEffects": false,
   "scripts": {
     "serve": "vue-cli-service serve dev/serve.js",
