@@ -1,5 +1,5 @@
 # vue-svg-like
-A Vue component for animated like button
+🎉 A Vue component for animated like button 🎉
 ![preview](https://user-images.githubusercontent.com/87121234/139560465-74b3a30a-ee0b-48e3-bcf0-2ddd44cb172d.gif)
 ## Installation
 NPM
@@ -12,7 +12,7 @@ yarn add vue-svg-like
 ```
 
 ## Usage
-```
+``` JavaScript
 <template>
   <vue-svg-like
     :clicked="clicked"
