@@ -1,4 +1,6 @@
 # vue-svg-like
+[![npm version](https://badge.fury.io/js/vue-svg-like.svg)](https://badge.fury.io/js/vue-svg-like) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 🎉 A Vue component for animated like button 🎉
 ![preview](https://user-images.githubusercontent.com/87121234/139560465-74b3a30a-ee0b-48e3-bcf0-2ddd44cb172d.gif)
 ## Installation
